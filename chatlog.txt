@@ -1,0 +1,339 @@
+Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..You : i want to set a reminder.
+Jarvis : What reminder you want to set.You : i want to go to play football tomorrow.
+Jarvis : What time you want to hear the reminder.Jarvis :  Note that please tell time in 24 hour format.You : 16:30.
+Jarvis : What date you want to hear the reminder.You : 12 5.
+Jarvis : Remember added successfully...Jarvis : Anything else you want to add in reminder..??.Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..You : i want to set a reminder.
+Jarvis : What reminder you want to set.You : i want to go to play football tomorrow.
+Jarvis : What time you want to hear the reminder.Jarvis :  Note that please tell time in 24 hour format.You : 16:46.
+Jarvis : What date you want to hear the reminder.Jarvis :  Note that please tell time in DD/MM format.You : 12:05.
+Jarvis : Remember added successfully...Jarvis : Anything else you want to add in reminder..??.Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..You : i want to set a reminder.
+Jarvis : What reminder you want to set.You : i want to go to play football tomorrow.
+Jarvis : What time you want to hear the reminder.Jarvis :  Note that please tell time in 24 hour format.You : 16:50.
+Jarvis : What date you want to hear the reminder.Jarvis :  Note that please tell time in DD/MM format.You : 12/05.
+Jarvis : Remember added successfully...Jarvis : Anything else you want to add in reminder..??.You : no.
+You : scan viruses.
+Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..You : i want to set a reminder.
+Jarvis : What reminder you want to set.Jarvis : What time you want to hear the reminder.Jarvis :  Note that please tell time in 24 hour format.Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..You : i want to set a reminder.
+Jarvis : What reminder you want to set.You : i want to go to play tomorrow.
+Jarvis : What time you want to hear the reminder.Jarvis :  Note that please tell time in 24 hour format.You : 17:00.
+Jarvis : What date you want to hear the reminder.Jarvis :  Note that please tell time in DD/MM format.You : 05/12.
+Jarvis : Remember added successfully...Jarvis : Anything else you want to add in reminder..??.You : no.
+You : scan viruses.
+You : i want to watch a movie.
+Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..You : can viruses.
+You : scan virus.
+Jarvis : What reminder you want to set.You : i want to go to play football tomorrow.
+Jarvis : Remember added successfully...Jarvis : Anything else you want to add in reminder..??.You : yes.
+Jarvis : What reminder you want to set.You : i want to go to school tomorrow.
+Jarvis : Remember added successfully...Jarvis : Anything else you want to add in reminder..??.You : no.
+Jarvis : 0. i have to go to play football 	 1750 	 11/2
+0. i want to go to play football tomorrow 	 17:20 	 11/8
+0. i want to go to play football tomorrow 	 17:20 	 11/8
+0. i want to go to play football tomorrow 	 16:30 	 12 5
+0. i want to go to play football tomorrow 	 16:46 	 12:05
+.Jarvis : 1. i want to go to play football tomorrow
+2. i want to go to school tomorrow
+.Jarvis : Do you want to keep the reminder...??.You : no.
+Jarvis : Do you want to delete totally.You : no.
+Jarvis : Whitch line you want to delete.You : first.
+Jarvis : 2. i want to go to school tomorrow
+1.vajsgda
+3kjhadhjbda.Jarvis : Do you want to keep the reminder...??.You : no.
+Jarvis : Do you want to delete totally.You : no.
+Jarvis : Whitch line you want to delete.You : first one.
+Jarvis : 1. Hello
+2.jadkaghd
+3.jhgdjgaj.Jarvis : Do you want to keep the reminder...??.You : no.
+Jarvis : Do you want to delete totally.You : no.
+Jarvis : Whitch line you want to delete.You : second one.
+Jarvis : 1. Hello
+2. Hi
+3. Heelo.Jarvis : Do you want to keep the reminder...??.You : no.
+Jarvis : Do you want to delete totally.You : no.
+Jarvis : Whitch line you want to delete.You : second one.
+Jarvis : 1. Hello
+2. Heelo
+3.hi.Jarvis : Do you want to keep the reminder...??.Jarvis : 1. Hello
+2. Heelo
+3. hi.Jarvis : Do you want to keep the reminder...??.You : no.
+Jarvis : Do you want to delete totally.You : no.
+Jarvis : Whitch line you want to delete.You : second one.
+Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : 1. Hello
+2. hi
+.Jarvis : Do you want to keep the reminder...??.Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..Jarvis : You set some reminder...Are you want to hear it..??.You : yes.
+You : reminder.
+Jarvis : 1. Hello
+2. hi
+.Jarvis : Do you want to keep the reminder...??.You : no no.
+Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..Jarvis : You set some reminder...Are you want to hear it..??.You : yes.
+Jarvis : 1. Hello
+2. hi
+.Jarvis : Do you want to keep the reminder...??.You : no.
+Jarvis : Do you want to delete totally.You : yes.
+You : scan viruses.
+You : can viruses.
+You : can viruses.
+You : can viruses.
+Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..Jarvis : You set some reminder...Are you want to hear it..??.You : yes.
+Jarvis : 1. Hello
+2. hi
+.Jarvis : Do you want to keep the reminder...??.You : no.
+Jarvis : Do you want to delete totally.Jarvis : Say yes or no.You : yes yes yes.
+Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..Jarvis : You set some reminder...Are you want to hear it..??.You : yes.
+Jarvis : 1. Hello
+2. hi
+.Jarvis : Do you want to keep the reminder...??.You : no.
+Jarvis : Do you want to delete totally.Jarvis : Say yes or no.You : yes.
+You : reminder.
+Jarvis : .Jarvis : Do you want to keep the reminder...??.You : no.
+Jarvis : Do you want to delete totally.Jarvis : Say yes or no.Jarvis : Say yes or no.You : yes.
+You : scan viruses.
+You : turn off.
+Jarvis : Turning off... .Jarvis : Say 'wake-up' to activate again....Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..You : what is the time.
+Jarvis : Starting the Jarvis : Wait for Few Seconds..Jarvis : Say 'Wake up' to activate the command.You : wake up.
+Jarvis : Hello Sir..Jarvis : I am Jarvis, I'm Ready to asist you sir..You : i am changing your name now on your name is hydra.
+hydra : Ok I will remember that my name is 5.You : what is your name.
+hydra : that beyond my abilites.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : what is your name.
+hydra : ['hydra'].You : who are you.
+hydra : sorry i can not do that.You : tell me my name.
+hydra : ['Naruto'].You : turn off.
+hydra : Turning off... .hydra : Say 'wake-up' to activate again....hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : what is the time.
+hydra : The time is 18:34..You : what is the date.
+hydra : Starting the hydra : Wait for Few Seconds..hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : what is the date.
+hydra : The date isDecember.Month no. 12..hydra : The day is Monday.The no. of day is Monday..hydra : The day is Monday.The no. of day is 1..hydra : The day is Monday.The no. of day is 1..hydra : The no. of day is Monday..hydra : The date isDecember..hydra : Month no. 12.hydra : The year is 22..hydra : The year is 22..hydra : The year is 2022..hydra : The year is 2022..hydra : The date is 05 December 22..hydra : The date is 05 December 2022..hydra : The time is 20:24..hydra : How many Prolog programmers does it take to change a lightbulb? false..hydra : Number of days since I have encountered an array index error: -1..hydra : This is what i found in the web.hydra : Wait Wait... Don't Tell Me!.hydra : This is what i found in the web.hydra : Wait Wait... Don't Tell Me!.hydra : This is what i found in the web.hydra : No speakable data found.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : makeup.
+hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : Sir, you need to go to sleep it's to late to wake up
+ take care of your health.hydra : Hello Sir..hydra : Starting the hydra : Wait for Few Seconds..hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.hydra : Say 'Wake up' to activate the command.hydra : Say 'Wake up' to activate the command.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good evening.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : open youtube.
+You : what is the time.
+hydra : The time is 20:34..You : what is temperature right now.
+hydra : please tell name of the city to get the temparature.hydra : current temparature in  is 28°C.You : gana chahie.
+You : open youtube.
+You : play a song play a song.
+hydra : What song you want to play.hydra : Which one you want to play.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.hydra : Say 'Wake up' to activate the command.hydra : Say 'Wake up' to activate the command.hydra : Say 'Wake up' to activate the command.hydra : Say 'Wake up' to activate the command.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good evening.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : play a song.
+hydra : What song you want to play.You : perfect.
+hydra : Which one you want to play.You : second one.
+You : i don't know.
+You : language and software.
+You : quite.
+You : flip.
+You : sleep.
+hydra : Turning off... .hydra : Say 'wake-up' to activate again....You : shutdown.
+You : salman khan song.
+You : shutdown.
+You : function and don't really really really.
+You : shutdown.
+You : actors.
+You : 15 year old sleep activation.
+You : what we say.
+You : volume mute.
+You : minder shutdown.
+You : motor generator slip model.
+You : fine fine.
+You : my music.
+You : just meet.
+You : shutdown option me sleep button on busy turning off to sleep.
+You : wake up.
+hydra : good evening.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : shutdown.
+hydra : Happy to help you....You : ki.
+hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good evening.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : open netflix.
+You : change your name to golu.
+You : turn off messages.
+hydra : Turning off... .hydra : Say 'wake-up' to activate again....hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good evening.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : upen netflix.
+You : open netflix.
+You : open open in data when.
+You : watch movie.
+You : watch.
+hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good evening.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : open.
+You : open netflix.
+You : play a movie.
+hydra : What song you want to play.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.hydra : Say 'Wake up' to activate the command.hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good evening.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : watch a movie.
+You : open netflix.
+hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good evening.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : open netflix.
+You : open netflix.
+You : watch a movie.
+You : watch a movie.
+hydra : Which movie you want to watch.hydra : Which one you want to watch.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.hydra : Say 'Wake up' to activate the command.You : wake.
+hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good evening.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : open netflix.
+hydra : Which movie you want to watch.hydra : Which one you want to watch.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good evening.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : open netflix.
+hydra : Which movie you want to watch.You : spider-man.
+hydra : Which one you want to watch.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good evening.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : play a song.
+hydra : What song you want to play.You : taare zameen par.
+hydra : Which one you want to play.hydra : if you want to quit the say quit.You : first one.
+hydra : if you want to quit the say quit.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good evening.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : play a song.
+hydra : What song you want to play.You : taare zameen par.
+hydra : Which one you want to play.hydra : if you want to quit the say quit.You : first.
+hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : What song you want to play.hydra : Which one you want to play.hydra : What song you want to play.hydra : Which one you want to play.hydra : What song you want to play.hydra : Which one you want to play.hydra : What song you want to play.You : taare zameen par.
+hydra : Which one you want to play.hydra : if you want to quit the say quit.You : fast fast.
+hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.You : fast fast.
+hydra : if you want to quit the say quit.You : first one first.
+hydra : What song you want to play.hydra : Which one you want to play.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.hydra : Say 'Wake up' to activate the command.hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good afternoon.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good afternoon.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : i want to set reminder.
+hydra : What reminder you want to set.You : i want to go to college tomorrow.
+hydra : Remember added successfully...hydra : Anything else you want to add in reminder..??.You : no.
+You : reminder.
+hydra : 1. i want to go to college tomorrow
+.hydra : Do you want to keep the reminder...??.You : yes.
+You : what is the time.
+hydra : The time is 14:31..You : what is the date.
+hydra : The date is 02 March 2023..You : what is the year.
+hydra : The year is 2023..You : what is the month.
+hydra : This is what i found in the web.hydra : A month is a unit of time, used with calendars, that is approximately as long as a natural orbital period of the Moon; the words month and Moon are cognates. The traditional concept arose with the cycle of Moon phases; such lunar months ("lunations") are synodic months and last approximately 29.53 days..hydra : None.You : calculate.
+hydra : say the first number.hydra : say the second number.hydra : what operation you want to do.You : class.
+hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good afternoon.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..hydra : You set some reminder...Are you want to hear it..??.hydra : Say yes or no.You : no.
+You : calculate.
+hydra : say the first number.hydra : say the second number.hydra : what operation you want to do.You : addition.
+hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good afternoon.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..hydra : You set some reminder...Are you want to hear it..??.hydra : Say yes or no.hydra : Say yes or no.You : no.
+You : calculate.
+hydra : say the first number.hydra : say the second number.hydra : what operation you want to do.You : edition.
+hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good afternoon.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : calculate.
+hydra : say the first number.You : one.
+hydra : say the second number.hydra : what operation you want to do.You : addition.
+hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good afternoon.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : calculate.
+hydra : say the first number.You : 53.
+hydra : say the second number.You : 93.
+hydra : what operation you want to do.You : addition.
+hydra : 146.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good afternoon.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : temperature.
+hydra : please tell name of the city to get the temparature.You : kolkata.
+hydra : current temparature in kolkata is 36°C.You : changing your name.
+anging your name : Ok I will remember that my name is anging your name.You : set your name is jarvis.
+jarvis : Ok I will remember that my name is jarvis.You : what is your name.
+jarvis : hydra.You : set your name is jarvis.
+jarvis : Ok I will remember that my name is jarvis.You : what is your name.
+jarvis : hydra.You : what are you.
+jarvis : sorry i can not do that.You : volume up.
+You : volume down.
+You : volume down.
+You : volume mute.
+You : volume mute.
+You : get the match result of arsenal and eva town.
+jarvis : This is what i found in the web.You : what is medicine.
+jarvis : This is what i found in the web.jarvis : No speakable data found.jarvis : None.You : sleep.
+jarvis : Turning off... .jarvis : Say 'wake-up' to activate again....jarvis : Starting the jarvis : Wait for Few Seconds..jarvis : Say 'Wake up' to activate the command.You : wake up.
+jarvis : good afternoon.jarvis : Hello Sir..jarvis : I am jarvis, I'm Ready to asist you sir..You : what is your name.
+jarvis : jarvis.You : set your name is hydra.
+hydra : Ok I will remember that my name is hydra.You : what is your name.
+hydra : hydra.You : volume down.
+You : visit in google.
+hydra : name of the site you want to search.hydra : which url you want to go with.hydra : the request is invalid please say again if you want to quit then say quit.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good afternoon.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : visit in google.
+hydra : name of the site you want to search.hydra : which url you want to go with.hydra : the request is invalid please say again if you want to quit then say quit.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good afternoon.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good afternoon.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : open google.
+hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good afternoon.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : visit google.
+hydra : name of the site you want to search.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good afternoon.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : visit google.
+hydra : name of the site you want to search.hydra : which url you want to go with.hydra : the request is invalid please say again if you want to quit then say quit.hydra : name of the site you want to search.You : zoro.
+hydra : which url you want to go with.You : first one.
+hydra : from which platfrom you want to watch .You : netflix.
+hydra : Which movie you want to watch.hydra : Which one you want to watch.hydra : from which platfrom you want to watch .You : netflix.
+hydra : Which movie you want to watch.You : spider-man 3.
+hydra : Which one you want to watch.You : second one.
+hydra : Which movie you want to watch.You : spider-man 3.
+hydra : Which one you want to watch.hydra : if you want to quit the say quit.You : second one.
+hydra : if you want to quit the say quit.You : second one.
+hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.You : first one.
+hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : Which movie you want to watch.hydra : Which movie you want to watch.You : spider-man 3.
+hydra : Which one you want to watch.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.You : fast.
+hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.You : second.
+hydra : Which movie you want to watch.hydra : Which movie you want to watch.You : spider-man 3.
+hydra : Which one you want to watch.You : second.
+hydra : Is it open in full screen.hydra : Which movie you want to watch.hydra : Is it open in full screen.You : no.
+hydra : Which movie you want to watch.You : spider-man 3.
+hydra : Which one you want to watch.You : first.
+hydra : From which video you want to watch .You : fast.
+hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : Is it open in full screen.You : no.
+hydra : Which movie you want to watch.You : spider-man 3.
+hydra : Which one you want to watch.You : first.
+hydra : From which video you want to watch .You : first.
+hydra : What song you want to play.You : taare zameen par.
+hydra : Which one you want to play.You : first.
+hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good afternoon.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : visit google.
+hydra : name of the site you want to search.hydra : which url you want to go with.hydra : the request is invalid please say again if you want to quit then say quit.hydra : Starting the hydra : Wait for Few Seconds..hydra : Say 'Wake up' to activate the command.You : wake up.
+hydra : good afternoon.hydra : Hello Sir..hydra : I am hydra, I'm Ready to asist you sir..You : visit google.
+hydra : name of the site you want to search.You : zordo.
+hydra : which url you want to go with.hydra : the request is invalid please say again if you want to quit then say quit.hydra : the request is invalid please say again if you want to quit then say quit.You : quit.
+You : visitorrow.2.
+You : go to google.
+hydra : name of the site you want to search.You : gogoanime.ru.
+hydra : which url you want to go with.hydra : the request is invalid please say again if you want to quit then say quit.You : quit.
+You : watch a movie.
+You : watch movie.
+hydra : from which platfrom you want to watch .You : netflix.
+hydra : Which movie you want to watch.You : spider-man 3.
+hydra : Which one you want to watch.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.You : second.
+You : open netflix.
+hydra : Which movie you want to watch.You : spider-man 3.
+hydra : Which one you want to watch.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.hydra : if you want to quit the say quit.You : second.
+You : open stream you.
+You : open premio.
+You : open premio.
+You : open trimo.
+You : open 3 me oh.
+You : open any day.
+You : open any dick.
+You : pain any big.
+You : open any day.
+You : open any.
+You : play a song.
+hydra : What song you want to play.You : abhishek.
+hydra : Which one you want to play.You : stone.
+hydra : if you want to quit the say quit.You : first.
+You : halavala.
+You : volume down.
+You : what is your name.
+hydra : hydra.You : set your name is jarvis.
+jarvis : Ok I will remember that my name is jarvis.You : your name.
+jarvis : that beyond my abilites.You : what is your name.
+jarvis : jarvis.You : what is my name.
+jarvis : Naruto.You : change my name is apurva lahiri.
+jarvis : that beyond my abilites.You : set my name is a football lahiri.
+jarvis : Ok I will remember that my name is a football lahiri.You : what is my name.
+jarvis : a football lahiri.You : set my name is naruto.
+jarvis : Ok I will remember that my name is naruto.You : what is my name.
+jarvis : naruto.You : shutdown.
+jarvis : Happy to help you....jarvis : Starting the jarvis : Wait for Few Seconds..jarvis : Say 'Wake up' to activate the command.jarvis : Say 'Wake up' to activate the command.jarvis : Say 'Wake up' to activate the command.You : wake up.
+jarvis : good morning.jarvis : Hello Sir..jarvis : I am jarvis, I'm Ready to asist you sir..You : open any des.
+You : open anydesk.
+You : visit.
